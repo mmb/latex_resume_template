@@ -1,1 +1,10 @@
 boilerplate for LaTeX resume
+
+To build pdf from tex:
+
+pdflatex resume.tex
+
+To build PostScript from tex:
+
+latex resume.tex
+dvips resume.dvi
